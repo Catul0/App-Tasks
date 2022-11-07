@@ -13,7 +13,7 @@ export class TaskService {
   constructor(
     private http:HttpClient
   ) { }
-  getTasks(): Observable <Task[]>{
+  getTasks(): Observable<Task[]>{
     return this.http.get<Task[]>(this.apiUrl)
   }
 }
