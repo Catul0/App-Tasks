@@ -4,13 +4,43 @@
       "id": 1,
       "text": "terminar nuestro primer modulo de Angular",
       "day": "noviembre 5",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 4,
       "text": "PLANCHAR",
       "day": "noviembre 7 a las 11:00 am",
       "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "cocinar",
+      "day": "noviembre 14",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "entrenar",
+      "day": "noviembre 14",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "ir al medico",
+      "day": "noviembre 14 a las 18 horas",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "limpiar la pieza",
+      "day": "hoy",
+      "reminder": false
+    },
+    {
+      "id": 7,
+      "text": "cocinar",
+      "day": "hoy",
+      "reminder": true
     }
   ]
 }
